@@ -7,6 +7,11 @@
 //Language: C++ (target: g++)
 //
 
+/*
+Generic comment inserted for TEST
+purposes
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
