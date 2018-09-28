@@ -1,2 +1,2 @@
-# test
-A test repository for testing purposes
+# Hash
+A simple C++ class for producing a hash value from an input
